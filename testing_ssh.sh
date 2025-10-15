@@ -1,1 +1,2 @@
-testing on ssh key
+testing on ssh key...
+added new configuration
